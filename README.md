@@ -1,5 +1,9 @@
 # WindowsVersions
 
+Note:
+
+Welcome! The password to every archive is mysubsarethebest.
+
 # Windows XP:
 
 https://dl.malwarewatch.org/windows/Windows%20XP.iso
@@ -59,6 +63,7 @@ x86 - MRX3F-47B9T-2487J-KWKMF-RPWBY
 
 # Windows Vista: download the Vista Activator. Link:https://dl.malwarewatch.org/windows/activation/VistaActivator.zip
 
-# Windows 7:download Chew7. Link:https://dl.malwarewatch.org/windows/activation/Chew7.zip
+# Windows 7:download Chew7. ~~Link:https://dl.malwarewatch.org/windows/activation/Chew7.zip~~
+Use KMSTools
 
 (Windows 7/8/8.1/10/11 Can Use KMSTOOLS) Link:https://dl.malwarewatch.org/windows/activation/KMSTools.zip
